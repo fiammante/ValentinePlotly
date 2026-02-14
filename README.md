@@ -4,7 +4,7 @@
 [![Plotly](https://img.shields.io/badge/plotly-5.x-informational)](https://plotly.com/python/)
 [![NumPy](https://img.shields.io/badge/numpy-2.x-yellow)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
+![Beating 3D Heart](./images/heart.png)
 Interactive 3D animation of the implicit heart surface, rendered with **Plotly** inside a single **Jupyter Lab cell**. Beats with a cardiac-realistic systole/diastole envelope. Optionally exports to **MP4** via kaleido + ffmpeg.
 
 $$\left(x^2 + \tfrac{9}{4}y^2 + z^2 - 1\right)^3 - x^2 z^3 - \tfrac{9}{200}y^2 z^3 = 0$$
